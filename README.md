@@ -7,4 +7,4 @@
 
 [![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=PurSnake&langs_count=7&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
 ##  ⬇️⬇️⬇️ Main project ⬇️⬇️⬇️
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grafexteam&repo=fnf-grafex&theme=synthwave)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PurSnake&repo=fnf-grafex-engine-update&theme=synthwave)
