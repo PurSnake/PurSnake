@@ -3,5 +3,5 @@
 </div>
 
 <p align="center">
-  <img src="http://i.imgur.com/uXjLgCl.gifv" width="100%" />
+  <image src="http://i.imgur.com/uXjLgCl.gif" width="100%" />
 </p>
