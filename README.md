@@ -4,5 +4,5 @@
 </div>
 
 <p align="center">
-  <image src="https://i.imgur.com/2LtbTPQ.gif" width="100%" />
+  <img src="https://i.imgur.com/2LtbTPQ.gif" width="100%" />
 </p>
